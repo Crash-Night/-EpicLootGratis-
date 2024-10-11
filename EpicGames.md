@@ -1,5 +1,3 @@
-<div style="text-align: center;">
-
 # Juegos de Epic Games Gratis :D
 
 **🎮 Empyrion - Galactic Survival 🎮**
@@ -21,11 +19,8 @@ Construye y explora en una verdadera aventura de supervivencia espacial. Constru
 (https://store.epicgames.com/es-ES/p/empyrion-galactic-survival-fbd99f)***
 
 <hr>
-</div>
 
 <br />
-
-<div style="text-align: center;">
 
 **🎮 Outliver: Tribulation 🎮**
 
@@ -45,4 +40,3 @@ Construye y explora en una verdadera aventura de supervivencia espacial. Constru
 
   ### Actualizacion del: 11/10/2024
   ### © Todos los derechos a Crash_Night - 2024
-  </div>
