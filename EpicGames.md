@@ -11,6 +11,7 @@ Construye y explora en una verdadera aventura de supervivencia espacial. Constru
 - **Disponible desde:** **10 de octubre de 2024**  
 - **Gratis hasta:** **17 de octubre de 2024**  
 - **Categoría:** **Supervivencia, Sandbox, Simulación**
+- **Precio: ~~17,99€~~ 0€ | Gratis**
 - **Disponible:** **[🖥️/PC]**
 
 <hr>
@@ -33,6 +34,7 @@ Construye y explora en una verdadera aventura de supervivencia espacial. Constru
 - **Disponible desde:** **10 de octubre de 2024**  
 - **Gratis hasta:** **17 de octubre de 2024**  
 - **Categoría:** **Acción, Supervivencia**
+- **Precio: ~~7,19€~~ 0€**
 - **Disponible:** **[🖥️/PC]**
 
 **Link Directo: <br />
