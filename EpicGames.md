@@ -15,9 +15,9 @@
 - **Precio: ~~9,99€~~ 0€ | Gratis**
 - **Disponible: **~~Finalizado~~** **[🖥️/PC]**
 
-- **Este juego pertenece o ha sido controlado por la basura de SWEET BABY INC por lo que no RECOMIENDO descargarlo ni jugarlo :D**
-
 <hr>
+
+- **Este juego pertenece o ha sido controlado por la basura de SWEET BABY INC por lo que no RECOMIENDO descargarlo ni jugarlo :D**
 
 ***Link Directo: <br />
 ([https://store.epicgames.com/es-ES/p/empyrion-galactic-survival-fbd99f](https://store.epicgames.com/es-ES/p/atom-eve-ff090d))***
